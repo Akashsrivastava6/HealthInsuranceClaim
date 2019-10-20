@@ -1,3 +1,3 @@
 # HealthInsuranceClaim
 
-Predicting Health Insurance Claim based in age, gender, region etc.
+Predicting Health Insurance Claim based on age, gender, region etc.
